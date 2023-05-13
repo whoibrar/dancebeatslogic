@@ -1,66 +1,66 @@
 [
-	{
-		"date": "2023-05-05",
-		"title": "#1 Hello Again Python",
-		"slug": "1-hello",
-		"notion-url": "https://www.notion.so/1-Hello-Again-Python-f14429726e7040fb8bc91d8b1f3bfc7f",
-		"time": "3h-00m",
-		"summary": "I started learning Data Science on DataCamp"
-	},
-	{
-		"date": "2023-05-06",
-		"title": "#2 Small Win",
-		"slug": "2-smallwin",
-		"notion-url": "https://www.notion.so/2-Small-Win-6d05dcdc2a94449fa4429611a0005b59",
-		"time": "4h-30m",
-		"summary": "Finished the one small intro part"
-	},
-	{
-		"date": "2023-05-07",
-		"title": "#3 Non Zero Days",
-		"slug": "3-nonzero",
-		"notion-url": "https://www.notion.so/3-Non-Zero-Days-e041e6646ff54035a769143d6260a569",
-		"time": "0h-15m",
-		"summary": "I am exhausted for the day but the show must go on"
-	},
-	{
-		"date": "2023-05-08",
-		"title": "#4 Made A Bet",
-		"slug": "4-bet",
-		"notion-url": "https://www.notion.so/4-Made-A-Bet-2e4da73cd0fb4a89a3160dcf54648978",
-		"time": "1h-00m",
-		"summary": "For each day I miss, I’ll now have to pay my friends"
-	},
-	{
-		"date": "2023-05-09",
-		"title": "#5 Oh hi Twitch",
-		"slug": "5-twitch",
-		"notion-url": "https://www.notion.so/5-Oh-hi-Twitch-ec8566f70b154a0ba0bc28b917b4001d",
-		"time": "3h-50m",
-		"summary": "Streaming on twitch and finishing Intermediate python course"
-	},
-	{
-		"date": "2023-05-10",
-		"title": "#6 Two Toolbox",
-		"slug": "6-toolbox",
-		"notion-url": "https://www.notion.so/6-Two-Toolbox-58d9ecbe16894f4588435372648e7544",
-		"time": "5h-30m",
-		"summary": "I completed the Python fundamentals track, and streamed too"
-	},
-	{
-		"date": "2023-05-11",
-		"title": "#7 Everyday Data Science Book",
-		"slug": "7-everyday",
-		"notion-url": "https://www.notion.so/7-Everyday-Data-Science-Book-33bc4d6bef1f43dbb74520bce8eb533e",
-		"time": "5h-35m",
-		"summary": "I finished reading a book, here’s the review and notes"
-	},
-	{
-		"date": "2023-05-12",
-		"title": "#8 Spreadsheets",
-		"slug": "8-sheets",
-		"notion-url": "https://www.notion.so/8-Spreadsheets-64438b432eb9403ca001599fa5042c1e",
-		"time": "1h-05m",
-		"summary": ""
-	}
+    {
+        "date": "2023-05-05",
+        "title": "#1 Hello Again Python",
+        "slug": "1-hello",
+        "notion-url": "https://www.notion.so/1-Hello-Again-Python-f14429726e7040fb8bc91d8b1f3bfc7f",
+        "time": "3h-00m",
+        "summary": "I started learning Data Science on DataCamp"
+    },
+    {
+        "date": "2023-05-06",
+        "title": "#2 Small Win",
+        "slug": "2-smallwin",
+        "notion-url": "https://www.notion.so/2-Small-Win-6d05dcdc2a94449fa4429611a0005b59",
+        "time": "4h-30m",
+        "summary": "Finished the one small intro part"
+    },
+    {
+        "date": "2023-05-07",
+        "title": "#3 Non Zero Days",
+        "slug": "3-nonzero",
+        "notion-url": "https://www.notion.so/3-Non-Zero-Days-e041e6646ff54035a769143d6260a569",
+        "time": "0h-15m",
+        "summary": "I am exhausted for the day but the show must go on"
+    },
+    {
+        "date": "2023-05-08",
+        "title": "#4 Made A Bet",
+        "slug": "4-bet",
+        "notion-url": "https://www.notion.so/4-Made-A-Bet-2e4da73cd0fb4a89a3160dcf54648978",
+        "time": "1h-00m",
+        "summary": "For each day I miss, I’ll now have to pay my friends"
+    },
+    {
+        "date": "2023-05-09",
+        "title": "#5 Oh hi Twitch",
+        "slug": "5-twitch",
+        "notion-url": "https://www.notion.so/5-Oh-hi-Twitch-ec8566f70b154a0ba0bc28b917b4001d",
+        "time": "3h-50m",
+        "summary": "Streaming on twitch and finishing Intermediate python course"
+    },
+    {
+        "date": "2023-05-10",
+        "title": "#6 Two Toolbox",
+        "slug": "6-toolbox",
+        "notion-url": "https://www.notion.so/6-Two-Toolbox-58d9ecbe16894f4588435372648e7544",
+        "time": "5h-30m",
+        "summary": "I completed the Python fundamentals track, and streamed too"
+    },
+    {
+        "date": "2023-05-11",
+        "title": "#7 Everyday Data Science Book",
+        "slug": "7-everyday",
+        "notion-url": "https://www.notion.so/7-Everyday-Data-Science-Book-33bc4d6bef1f43dbb74520bce8eb533e",
+        "time": "5h-35m",
+        "summary": "I finished reading a book, here’s the review and notes"
+    },
+    {
+        "date": "2023-05-12",
+        "title": "#8 Spreadsheets",
+        "slug": "8-sheets",
+        "notion-url": "https://www.notion.so/8-Spreadsheets-64438b432eb9403ca001599fa5042c1e",
+        "time": "1h-05m",
+        "summary": ""
+    }
 ]
