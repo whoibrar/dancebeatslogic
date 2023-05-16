@@ -15,6 +15,7 @@ There were a lot of interesting challenges and I learned a lot about iteartors a
 💡 Tuple use cases ??
 
 </aside>
+
 ---
 
 - Arguments vs Parameters
@@ -75,7 +76,9 @@ Keywords to change scopes
 💡 Tricky question related to Name Scopes
 
 </aside>
+
 ---
+
 What’s the deal with built-ins 
 
 > *Here you're going to check out Python's built-in scope, which is really just a built-in module called `builtins`. However, to query `builtins`, you'll need to `import builtins` 'because the name builtins is not itself built in…No, I’m serious!'*
@@ -90,6 +93,7 @@ Nested Function
 💡 Case for Nested functions
 
 </aside>
+
 ---
 
 Useful for higher order functions stuff
@@ -160,6 +164,7 @@ result = reduce(lambda x,y : x+y, vals)
 💡 Learn about the a
 
 </aside>
+
 ---
 
 
@@ -207,6 +212,7 @@ print(*it) # Error
 💡 How does the range function work
 
 </aside>
+
 ---
 
 Range function 
